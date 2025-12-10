@@ -1,1 +1,0 @@
-# Monte-Carlo_Ley-de-los-grandes-n-meros
